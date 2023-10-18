@@ -1,3 +1,4 @@
+#string para int
 dia = int(input("Dia: "))
 mes = input("Mes: ")
 
